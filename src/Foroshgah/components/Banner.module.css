@@ -1,0 +1,24 @@
+.back {
+  width: 100%;
+  position: relative;
+}
+
+.text {
+  position: absolute;
+  top: 150px;
+  left: 100px;
+}
+.text h1 {
+  font-size: 4rem;
+  color: #696969;
+}
+.text p {
+  font-size: 9rem;
+  color: #696969;
+  margin-top: 20px;
+}
+.text span {
+  color: #30c0e4;
+  font-weight: bold;
+  margin-left: 200px;
+}

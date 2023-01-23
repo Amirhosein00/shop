@@ -1,0 +1,77 @@
+.mainContainer {
+  background-color: #fff;
+  margin: 0 5% 100px;
+  padding-bottom: 5%;
+  top: 0;
+  left: 10%;
+  width: 90%;
+  box-shadow: 0px 5px 24px rgba(149, 157, 165, 0.4);
+  border-radius: 20px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  align-items: center;
+  height: 40px;
+  padding: 50% 40%;
+}
+
+.admin p {
+  top: -17px;
+  margin-left: 25%;
+  font-size: 3rem;
+  text-decoration: none;
+  color: #1a73e8;
+  font-weight: bold;
+  border-radius: 2px;
+  padding: 0 1px;
+  transition: all 0.2s ease;
+  position: relative;
+}
+.admin button {
+  margin-top: 30px;
+  padding: 10px;
+  margin-left: 20%;
+  border-radius: 10px;
+  justify-content: space-between;
+  cursor: pointer;
+  align-items: center;
+}
+.b {
+  flex-wrap: wrap;
+  justify-content: space-between;
+  cursor: pointer;
+  align-items: center;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.c {
+  flex-wrap: wrap;
+  justify-content: space-between;
+  cursor: pointer;
+  align-items: center;
+  padding: 5px;
+  border-radius: 10px;
+  margin-left: 48%;
+  margin-top: 20%;
+  height: 40px;
+  width: 60px;
+}
+.button {
+  width: 115%;
+  height: 80px;
+  margin-left: -20px;
+  border: hidden;
+}
+
+.menuButton {
+  right: 20px;
+  top: 20px;
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+}

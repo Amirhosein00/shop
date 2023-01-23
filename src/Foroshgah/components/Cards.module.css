@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  margin: 60px 0 60px;
+}
+
+.arrow {
+  margin-top: 160px;
+  height: 70px;
+  width: 40px;
+}

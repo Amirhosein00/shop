@@ -1,0 +1,29 @@
+.main {
+  margin-left: 37%;
+  background-color: #ececec;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px rgb(189, 189, 189);
+  padding: 2%;
+}
+.main input {
+  margin-left: 20%;
+}
+.main p {
+  margin-left: 40%;
+}
+
+.main button {
+  border-radius: 10px;
+  margin-top: 5%;
+  padding: 5px;
+  margin-left: 40%;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  cursor: pointer;
+  align-items: center;
+}
+.forms {
+  border-radius: 10px;
+  align-items: center;
+  height: 20%;
+}
